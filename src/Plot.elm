@@ -15,12 +15,12 @@ import TypedSvg.Types exposing (Fill(..), Transform(..))
 
 w : Float
 w =
-    900
+    700
 
 
 h : Float
 h =
-    450
+    150
 
 
 padding : Float
